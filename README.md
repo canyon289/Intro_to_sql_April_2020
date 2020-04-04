@@ -4,7 +4,7 @@ Taught as part of 23b meetup
 ## Meetup Link
 https://www.meetup.com/23bshop/events/269805757/
 
-## Repository we will be using
+## Repository for the database we'll be using
 https://github.com/jpwhite3/northwind-SQLite3
 
 ## Topics we will cover
