@@ -16,6 +16,15 @@ https://github.com/jpwhite3/northwind-SQLite3
   * Left join
   
 ## Class Structure
-* Lecture (1 hr)
+* Lecture (50 mins)
+* Break to allow for installations
 * 2 practice exercises (20 mins)
 * Closing (10 mins)
+
+## Request other topics here
+Happy to keep the fun going. Let me know what you would like to see.  
+https://forms.gle/mT3enehpZmG3atyt6
+
+## Feedback
+Feedback helps me make this better for you
+https://forms.gle/F5iq3pFZdud38MSF8
