@@ -1,5 +1,5 @@
 # Introduction to SQL
-Taught as part of 23b meetup
+Taught as part of 23b Sunday School
 
 ## Meetup Link
 https://www.meetup.com/23bshop/events/269805757/
