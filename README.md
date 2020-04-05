@@ -7,7 +7,7 @@ https://www.meetup.com/23bshop/events/269805757/
 ## Repository for the database we'll be using
 https://github.com/jpwhite3/northwind-SQLite3
 
-## SQL Lite DB Browser
+## SQLite DB Browser
 https://sqlitebrowser.org/
 
 ## Topics we will cover
