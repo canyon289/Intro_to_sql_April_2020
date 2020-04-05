@@ -7,6 +7,9 @@ https://www.meetup.com/23bshop/events/269805757/
 ## Repository for the database we'll be using
 https://github.com/jpwhite3/northwind-SQLite3
 
+## SQL Lite DB Browser
+https://sqlitebrowser.org/
+
 ## Topics we will cover
 * Database introduction
 * Structured Query Language Syntax
@@ -26,5 +29,5 @@ Happy to keep the fun going. Let me know what you would like to see.
 https://forms.gle/mT3enehpZmG3atyt6
 
 ## Feedback
-Feedback helps me make this better for you
+Feedback helps me make this better for you  
 https://forms.gle/F5iq3pFZdud38MSF8
