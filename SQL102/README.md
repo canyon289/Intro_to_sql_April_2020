@@ -29,5 +29,7 @@ Specifically the columns should be
 * Order Date
 * Unit Price
 * Quantity
+
+
 _hint_: This similar to Exercise 1 with a subtle difference on the join. 
 Use Order By and row count to check the difference
